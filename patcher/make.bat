@@ -6,7 +6,6 @@ C:
 cd C:\MinGW\bin
 mkdir %output-dir%
 gcc -o %output-dir%\Snail2021.exe %hollyhock-dir%\patcher\Snail2021mod.c -lz -static
-del %output-dir%\mod.txt
 
 pause
 

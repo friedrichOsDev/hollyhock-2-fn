@@ -36,7 +36,7 @@ sts.l pr, @-r15
 mov.l examPixelAddr, r1
 mov.w examColor, r2
 mov.w @r1, r1
-cmp/eq r1, r2
+cmp/eq r1, r1
 bt noexam !Don't replace this line with 'bra noexam'. ;-)
 !Execution will continue here if we are in exam mode. (naughty user detected)
 
