@@ -1,5 +1,5 @@
 @echo off
-set hollyhock-dir=C:\Users\Friedrich\Desktop\hollyhock-2
+set hollyhock-dir=C:\Users\Friedrich\Desktop\hollyhock-2-fn
 set output-dir=C:\Users\Friedrich\Desktop\Snail2021
 
 C:
